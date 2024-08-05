@@ -82,10 +82,10 @@ Your app is ready to be deployed!
 
 ## Tech Approach
 
-**State Management**: Redux Toolkit is used for managing and storing articles.
-**API Fetching**: Redux-Saga is utilized to handle asynchronous data fetching and side effects.
-**Component Design**: Components are built to be reusable and modular, enhancing code maintainability.
-**Testing**: Comprehensive testing is done using Jest for unit tests, RTL for component tests, and Cypress for end-to-end tests.
-**Styling**: Tailwind CSS is employed for quick, responsive designs.
-**Optimization**: The codebase is optimized for performance with clean and maintainable code.
-**TypeScript**: TypeScript is used throughout the application for better developer experience and to reduce runtime errors.
+- **State Management**: Redux Toolkit is used for managing and storing articles.
+- **API Fetching**: Redux-Saga is utilized to handle asynchronous data fetching and side effects.
+- **Component Design**: Components are built to be reusable and modular, enhancing code maintainability.
+- **Testing**: Comprehensive testing is done using Jest for unit tests, RTL for component tests, and Cypress for end-to-end tests.
+- **Styling**: Tailwind CSS is employed for quick, responsive designs.
+- **Optimization**: The codebase is optimized for performance with clean and maintainable code.
+- **TypeScript**: TypeScript is used throughout the application for better developer experience and to reduce runtime errors.
